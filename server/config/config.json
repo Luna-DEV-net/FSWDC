@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "~=H@>gL}sv!T*f2{QXSw",
+    "database": "fswdc-db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "admin",
+    "password": "~=H@>gL}sv!T*f2{QXSw",
+    "database": "fswdc-db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin",
+    "password": "~=H@>gL}sv!T*f2{QXSw",
+    "database": "fswdc-db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
